@@ -1,0 +1,10 @@
+Hello,
+
+
+The invoice processing has been done.
+38 invoices processed
+2156 is the total amount from the invoices.
+
+
+
+Regards,
