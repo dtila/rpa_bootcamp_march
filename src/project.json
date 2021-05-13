@@ -1,7 +1,7 @@
 {
   "name": "RPABootcampMarch",
   "description": "UiPath RPA Bootcamp March Exercises",
-  "main": "Trixi.xaml",
+  "main": "Week 11\\Exceptions.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.5]",
     "UiPath.Mail.Activities": "[1.9.5]",
@@ -13,9 +13,8 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.10.6.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.2",
   "runtimeOptions": {
-    "exceptionHandlerWorkflow": "GlobalHandler.xaml",
     "autoDispose": false,
     "isPausable": true,
     "requiresUserInteraction": true,
@@ -46,6 +45,18 @@
     {
       "filePath": "Trixi.xaml",
       "uniqueId": "c30fe734-2ca9-4e6e-b092-e4080255e1db",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Week 11\\Debugging.xaml",
+      "uniqueId": "3b9eb593-9163-4134-aabc-1923578206ef",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Week 11\\Exceptions.xaml",
+      "uniqueId": "3feff887-d23f-4f6b-a249-fb1598977408",
       "input": [],
       "output": []
     }
