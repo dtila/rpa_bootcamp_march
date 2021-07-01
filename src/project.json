@@ -4,10 +4,12 @@
   "main": "Week 11\\Exceptions.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.5]",
+    "UiPath.Form.Activities": "[1.2.1-preview]",
     "UiPath.Mail.Activities": "[1.9.5]",
     "UiPath.PDF.Activities": "[3.4.0]",
     "UiPath.System.Activities": "[20.10.4]",
-    "UiPath.UIAutomation.Activities": "[20.10.9]"
+    "UiPath.UIAutomation.Activities": "[20.10.9]",
+    "UiPath.WebAPI.Activities": "[1.7.0]"
   },
   "webServices": [],
   "entitiesStores": [],
